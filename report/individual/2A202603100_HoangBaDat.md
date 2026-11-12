@@ -3,7 +3,7 @@
 ## 1. Thông tin học viên và Tiến độ hoàn thành
 
 * **Họ và tên:** Hoàng Bá Đạt
-* **Mã học viên / MSSV:** 20260001
+* **Mã học viên / MSSV:** 2A202603100
 * **Repository nộp bài:** `https://github.com/hdat2031-dotcom/K5-L2-DAY03-HoangBaDat-20260001-Image-Segmentation`
 * **Trạng thái hoàn thành các task và file ZIP tương ứng (đã lưu trong `submissions/`):**
 
